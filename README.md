@@ -1,4 +1,7 @@
 # hello-world
 Ilk programım
 
-İlk defa github kullanıyorum. İlk değişikliğimi yapıyorum.
+defa github kullanıyorum. İlk değişikliğimi yapıyorum.
+
+Son
+
